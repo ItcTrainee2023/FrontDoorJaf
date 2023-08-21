@@ -1,6 +1,6 @@
 targetScope = 'subscription'
 
-// General Parameters Version1
+// General Parameters Version05 updated
 // =================
 @description('The location to deploy resources to.')
 param location string = 'uksouth'
