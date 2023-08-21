@@ -1,6 +1,6 @@
 variables:
 
-# Name of the service connection (within Azure DevOps) which targets an Azure subscription. 
+# Line 1 changed Name of the service connection (within Azure DevOps) which targets an Azure subscription. added comment 
 # This should be different for each environment as it is assumed there will be a seperate subscription for each enviornment, therefore a seperate service connection.
 - name: azure_service_connection
   value: adoconnectionpolicy
